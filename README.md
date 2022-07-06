@@ -1,16 +1,15 @@
 # The Impact of Covid-19 on the UK Business Economy Pattern 
 
-<img src="https://www.wbcsd.org/var/site/storage/images/wbcsd-covid-19-response-program/142857-8-eng-GB/WBCSD-COVID-19-Response-Program_i1140.jpg" align="center" width="1000" /></a>
+<img src="https://blog.yelp.com/wp-content/uploads/2020/04/Generic-COVID-Banner.png" align="center" width="500"/></a>
 
-This project aims to visualise the impact of Covid-19 on the UK business economy, since the occurence of pandemic in January 2020. 
+The coronavirus pandemic has impacted the economy in many ways, this project aims to visualise the impacts of Covid-19 on the UK business patterns. Clearly, the UK has paid an economic price for failing to consider long Covid when lifting restrictions at the beginning of pandemic.
 
-## Visualisation 1: Industries Growth
+**Data** is downloadable at Companies House, containing basic company data of live companies on the register. You can access this site [here](http://download.companieshouse.gov.uk/en_output.html). 
 
-The interactive plots show the UK growth rate of different industries in percentage, counting from January 2019 to July 2022.
+The dataset was downloaded in CSV format on 06/07/2022.
 
-## Visualisation 2: Business Distress and Closures
+- Visualisation 1 & 2: Active Companies amongst Industries during Covid-19 
 
+- Visualisation 3: Heatmap of Business Closures during Covid-19 
 
-
-## Visualisation 3: Industries Recovery
-
+- Visualisation 4: Changes of Patterns amongst Industries during Covid-19 
