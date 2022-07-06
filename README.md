@@ -4,7 +4,7 @@
 
 The coronavirus pandemic has impacted the economy in many ways, this project aims to visualise the impacts of Covid-19 on the UK business patterns. Clearly, the UK has paid an economic price for failing to consider long Covid when lifting restrictions at the beginning of pandemic.
 
-**Data** is downloadable at Companies House, containing basic company data of live companies on the register. You can access this site [here](http://download.companieshouse.gov.uk/en_output.html). 
+**Data** is downloadable at [Companies House](http://download.companieshouse.gov.uk/en_output.html), containing live company data on the register.
 
 The dataset was downloaded in CSV format on 06/07/2022.
 
