@@ -18,7 +18,7 @@ The dataset was downloaded in CSV format on 06/07/2022.
 
 ### Visualisation 1 & 2: Active Companies amongst Industries during Covid-19 
 
-The plots aim  to visualise to what extent the Covid-19 has negatively impacted on the UK economy.  amongst UK industries, considering from January 2021 to 2022. As shown, whilst most industries suffering from restriction rules, **Wholesale and Retail** had been the most profitable.
+The plots aim  to visualise to what extent the Covid-19 has negatively impacted on the UK economy amongst industries, considering from January 2021 to now, July 2022. As shown, whilst most industries suffering from restriction rules, **Wholesale and Retail** had been the most profitable.
 
 <img src="https://github.com/vytknguyen/Covid-19-on-UK-Business-Economy/blob/main/docs/Bar-Active-Companies-Covid-19.png?raw=true"/></a>
 
@@ -29,7 +29,7 @@ Besides, **Construction**, and **Professional, Scientific, & Technical** also ex
 
 ### Visualisation 3: Heatmap of Business Closures during Covid-19 
 
-The heat map shows the number of companies forcing to bankrupt before and after Covid-19. Clearly, Endland had been affected significantly comparing to other regions. This could be due to either delay or less strict in imposing distance rules.
+The heat map summaries the number of companies forcing to bankrupt before and after Covid-19. Clearly, Endland had been the most affected region comparing to others. This could be due to either delay or less strict in imposing distance rules.
 
 <img src="https://github.com/vytknguyen/Covid-19-on-UK-Business-Economy/blob/main/docs/GeoHeatmap-UK-Business-Closures-Covid-19.png?raw=true"/></a>
 
