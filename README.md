@@ -15,6 +15,11 @@ The dataset was downloaded in CSV format on 06/07/2022.
  - [Geo Heatmap](https://vytknguyen.github.io/Covid-19-on-UK-Business-Economy/GeoHeatmap-UK-Business-Closures-Covid-19.html)
  - [Sankey Diagram](https://vytknguyen.github.io/Covid-19-on-UK-Business-Economy/Diagram-UK-Industry-Performance-Covid19.html)
 
+**Languages and Tools:**
+
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></a>
+<img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
+<img alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"/></a>
 
 ### Visualisation 1 & 2: Active Companies amongst Industries during Covid-19 
 
