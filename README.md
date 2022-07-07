@@ -1,4 +1,4 @@
-# The Impact of Covid-19 on the UK Business Economy Pattern 
+# The Impact of Covid-19 on the UK Business Economy
 
 <img src="https://blog.yelp.com/wp-content/uploads/2020/04/Generic-COVID-Banner.png" align="center" width="500"/></a>
 
